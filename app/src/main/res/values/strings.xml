@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Safe Memo App</string>
+    <string name="fingerprint_authentication_fail">認証に失敗しました</string>
+    <string name="fingerprint_permission_fail">指紋認証の権限が取得できませんでした</string>
+    <string name="fingerprint_hardware_fail">ハードウェアが指紋認証をサポートしていません</string>
+    <string name="menustr_export">エクスポート</string>
+    <string name="menustr_import">インポート</string>
+</resources>
